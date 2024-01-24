@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Nencer 05\source\repos\winformhis\NencerHis\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CustomToolbox\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomToolbox\CustomTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Extensions\FlatCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\CommonManager\frmStartApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Authorization\Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\ExaminationListUser\Forms\ExaminationListUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\ExaminationUser\ExaminationUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\Handle\HandleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\PatientInfo\PatientInfoUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\PrescriptionAdd\PrescriptionAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\Prescription\PrescriptionUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\ServiceAdd\ServiceAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\ServiceUser\ServiceUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\ExaminationManager\Toolbar\Forms\ExaminationManagerUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Category\Forms\CategoryUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Package\Forms\PackageItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Package\Forms\PackageUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Product\Forms\ProductUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockInventory\Forms\StockInventoryUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\Forms\ApproveInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\Forms\StockOdersUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\Forms\StockOrderDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\CancelExportUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\ExportCustomersUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\ImportAnotherWarehouseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\ImportProgramUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\ImportSupplierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\OtherExportUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\StockOrder\InvoiceInforUserControl\ReturnSupplierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Stock\Forms\StockFormUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Supplier\Forms\SupplierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventories\Toolbar\Forms\ToolbarInventoriesUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\InvoiceAndPayment\InventoryCashier\Forms\TicketCashierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\InvoiceAndPayment\Toolbar\Forms\InvoiceAndPaymentUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\LIS_RIS\LISHandle\Forms\LISHandleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\LIS_RIS\LISHandle\Toolbar\Forms\LisHandleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\LIS_RIS\LISSample\Forms\LISSampleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\LIS_RIS\LISSample\Toolbar\Forms\LisSampleUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Reception\Forms\DonTiepUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Modules\Reception\Forms\ThemMoiDonTiepUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Shared\Forms\LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shared\UserControls\ExaminationItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Shared\UserControls\PaginationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Shared\UserControls\RowItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Modules\Authorization\Forms\Login.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\NencerResource.en.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\NencerResource.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\NencerResource.vi.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
